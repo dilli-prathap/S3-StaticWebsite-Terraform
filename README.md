@@ -31,7 +31,6 @@ This project demonstrates how to provision an **Amazon S3 bucket** and host a **
 ├── main.tf
 ├── provider.tf
 ├── variables.tf
-├── terraform.tfvars
 ├── index.html
 ├── error.html
 └── README.md
@@ -44,6 +43,12 @@ This project demonstrates how to provision an **Amazon S3 bucket** and host a **
 * AWS CLI configured
 * Terraform installed
 * Git installed
+
+<img width="1908" height="825" alt="Screenshot 2026-07-12 193429" src="https://github.com/user-attachments/assets/3c7a8cf6-2939-4063-83b6-28025c8201e2" />
+<img width="1355" height="1022" alt="Screenshot 2026-07-12 193530" src="https://github.com/user-attachments/assets/a234c213-1efa-4cdd-8f2f-deaf5dfca34b" />
+<img width="1391" height="835" alt="Screenshot 2026-07-12 193649" src="https://github.com/user-attachments/assets/4a73ba15-eeeb-426e-ac90-0d0a046f9d8d" />
+<img width="1378" height="941" alt="Screenshot 2026-07-12 193700" src="https://github.com/user-attachments/assets/23744486-c981-4e00-92aa-15b391e9a288" />
+
 
 ## Deployment
 
